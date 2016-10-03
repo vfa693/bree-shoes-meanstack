@@ -1,7 +1,7 @@
 {
-  "name": "bree",
+  "name": "backend-bree-shoes",
   "version": "1.0.0",
-  "description": "",
+  "description": "MEAN app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
