@@ -1,0 +1,442 @@
+[
+   
+		{
+			"title" : "Supreme x Nike SB",
+            "description" : "TENNIS CLASSIC",
+            "price" : "$120.00",
+            "discount" : "$160.00",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-01.png",
+                      "desktop" : "./images/shoe-01.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "RAF SIMONS X ADIDAS",
+            "description" : "MID - PLATFORM LIGHT-UP",
+            "price" : "$760.00",
+            "discount" : "",
+            "img" : {
+                "alt" : "Get Things Done.",
+                "url" : {
+                      "mobile" : "./images/shoe-02.png",
+                      "desktop" : "./images/shoe-02.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "true"
+            }
+		},
+        {
+			"title" : "KRIS VAN ASSCHE",
+            "description" : "HI TOP - MULTI LACES",
+            "price" : "$650.00",
+            "discount" : "$750.00",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-03.png",
+                      "desktop" : "./images/shoe-03.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "KRIS VAN ASSCHE",
+            "description" : "HI TOP - MULTI LACES",
+            "price" : "$650.00",
+            "discount" : "$750.00",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-03.png",
+                      "desktop" : "./images/shoe-03.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "NIKE X SUPREME",
+            "subtitle" : "AIR FORCE ONE",
+            "description" : "SNEAKERS FROM NIKE SPORTSWEAR. MADE IN COLLABORATION WITH ACRONYM. UPPER IN SUEDE. FLAT LACES. OUTER SIDE ZIP CLOSURE. TONGUE IN LEATHER WITH PERFORATION",
+            "price" : "$300.00",
+            "discount" : "",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-04.png",
+                      "desktop" : "./images/shoe-04.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "true"
+            }
+		},
+        {
+			"title" : "CONVERSE X COMME DES GARÇONS",
+            "subtitle" : "",
+            "description" : "BLACK HEART LOGO",
+            "price" : "$160.00",
+            "discount" : "$200.00",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-05.png",
+                      "desktop" : "./images/shoe-05.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "true",
+                "hasShoppingButton" : "true",
+                "hasExclusive" : "true",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "SUPREME X NIKE SB",
+            "subtitle" : "",
+            "description" : "TENNIS CLASSIC",
+            "price" : "$105.00",
+            "discount" : "",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-06.png",
+                      "desktop" : "./images/shoe-06.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "true",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "NIKE JORDAN",
+            "subtitle" : "",
+            "description" : "AIR JORDAN XI LOW",
+            "price" : "$200.00",
+            "discount" : "",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-07.png",
+                      "desktop" : "./images/shoe-07.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "true",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "ACNE STUDIOS",
+            "subtitle" : "",
+            "description" : "ADRIAN - GRAINED LEATHER",
+            "price" : "$370.00",
+            "discount" : "",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-08.png",
+                      "desktop" : "./images/shoe-08.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "true",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "RICK OWENS X ADIDAS",
+            "subtitle" : "",
+            "description" : "BLACK & MILK",
+            "price" : "$380.00",
+            "discount" : "",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-09.png",
+                      "desktop" : "./images/shoe-09.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "ADIDAS",
+            "subtitle" : "",
+            "description" : "YEEZY BOOST 350",
+            "price" : "$560.00",
+            "discount" : "$940.00",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-10.png",
+                      "desktop" : "./images/shoe-10.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "COMMON PROJECTS",
+            "subtitle" : "",
+            "description" : "RED CANVAS & LEATHER",
+            "price" : "$410.00",
+            "discount" : "",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "./images/shoe-11.png",
+                      "desktop" : "./images/shoe-11.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "",
+                    "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "false"
+            }
+		},
+        {
+			"title" : "OG ERA LX WTAPS",
+            "subtitle" : "NEW ARRIVALS",
+            "description" : "",
+            "price" : "",
+            "discount" : "",
+            "img" : {
+                "alt" : "Shoes anywhere",
+                "url" : {
+                      "mobile" : "",
+                      "desktop" : ""
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "bg-img" : {
+               "url" : {
+                    "mobile" : "./images/shoe-14.png",
+                    "desktop" : "./images/shoe-14.png"
+                },
+                "class" : {
+                    "picture" : "",
+                    "image" : ""
+                }
+            },
+            "actions" : {
+                "hasLikeButtom" : "false",
+                "hasShoppingButton" : "false",
+                "hasExclusive" : "false",
+                "hasNew" : "false"
+            }
+		}
+]
+
